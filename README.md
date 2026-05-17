@@ -1,4 +1,4 @@
-# 🌌 GIGNEX: Deep-Space Freelance Escrow Platform
+GIGNEX: Deep-Space Freelance Escrow Platform
 
 ```text
    ______   ______   ______  .__   __.  _______ ___   ___ 
